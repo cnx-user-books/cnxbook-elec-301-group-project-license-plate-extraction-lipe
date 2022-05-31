@@ -1,0 +1,16 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11145</md:content-id>
+    <md:title>ELEC 301 Group Project- License Plate Extraction (LiPE)</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>3ca516d2-4320-4723-b2b4-3a628e626380</md:uuid>
+<md:slug>elec-301-group-project-license-plate-extraction-lipe</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m33154"/>
+    <col:module document="m33156"/>
+    <col:module document="m33159"/>
+    <col:module document="m33160"/>
+  </col:content>
+</col:collection>
